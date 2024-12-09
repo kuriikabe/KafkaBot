@@ -1,0 +1,2 @@
+# KafkaBot
+Bot for Discord.
